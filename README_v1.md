@@ -1,5 +1,5 @@
 # MyceSoil — Supplementary Code (V1 Preprint)
-
+Preprint: Eldidy, N. (2026) 'MyceSoil: Multi-Parameter Environmental Monitoring via Fisher Information Inversion of Pleiotropic Biohybrid Impedance'. Zenodo. https://doi.org/10.5281/zenodo.20681618
 Python 3.9+, numpy, scipy: `pip install numpy scipy`
 
 Keep all files in the same directory — scripts import each other.
